@@ -7,6 +7,7 @@ this is a new repo <br>
 
 general commands:
 
+git init within working local directory
 git add .
 git commit -m ''
 git push
