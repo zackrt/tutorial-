@@ -11,3 +11,5 @@ git init within working local directory
 git add .
 git commit -m ''
 git push
+
+add all repos of coding challenges
