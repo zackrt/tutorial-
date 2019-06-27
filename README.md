@@ -21,3 +21,5 @@ recheck legacies
 write tests 
 
 deploy
+
+[bitcoin price](https://www.coindesk.com/price/bitcoin)<br>
