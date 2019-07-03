@@ -16,7 +16,7 @@ add all repos of coding challenges
 
 add all directories
 
-recheck legacies
+recheck legacy code
 
 write tests 
 
