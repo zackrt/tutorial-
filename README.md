@@ -27,3 +27,5 @@ deploy
 review git repos of various blockchains
 
 guessing game: stores random number, compares user input number 0 to 100 to random number, and verifies if correct in comparison function.
+
+.00001 of the way there
