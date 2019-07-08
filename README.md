@@ -31,3 +31,5 @@ guessing game: stores random number, compares user input number 0 to 100 to rand
 .00001 of the way there
 
 check slides directory
+
+review recruitment numbers
