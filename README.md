@@ -33,3 +33,6 @@ guessing game: stores random number, compares user input number 0 to 100 to rand
 check slides directory
 
 review recruitment numbers
+
+app idea:
+finance app that pulls real time data across all personal financial accounts that displays total assets value for all investments
