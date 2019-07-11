@@ -38,3 +38,5 @@ app idea:
 finance app that pulls real time data across all personal financial accounts that displays total assets value for all investments
 
 test all slide code
+
+practice general commands
