@@ -12,6 +12,10 @@ git add .
 git commit -m ''
 git push
 
+git status
+
+git log
+
 add all repos of coding challenges
 
 add all directories
