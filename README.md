@@ -9,11 +9,10 @@ general commands:
 
 git init within working local directory
 git add .
-git commit -m ''
-git push
-
+git commit -m 'logging message'
+git push 
+-ff
 git status
-
 git log
 
 add all repos of coding challenges
