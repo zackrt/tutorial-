@@ -5,7 +5,7 @@ this is a new repo <br>
 # example text added <br>
 [Google](https://www.google.com)<br>  <- syntax for link
 
-general commands:
+general git commands:
 
 git init within working local directory
 git add .
