@@ -8,9 +8,9 @@ this is a new repo <br>
 general git commands:
 
 git init within working local directory
-git add .
+git add . or git add filename
 git commit -m 'logging message'
-git push 
+git push -f origin master
 -ff
 git status
 git log
