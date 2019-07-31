@@ -43,3 +43,5 @@ finance app that pulls real time data across all personal financial accounts tha
 test all slide code
 
 practice general commands
+
+<a href="https://www.f6s.com/zacktoth?follow=1" target="_blank" title="Follow Zack Toth on F6S"><img src="https://www.f6s.com/images/f6s-follow-white.png" border="0" width="78" height="22 " alt="Follow Zack Toth on F6S" style="width: 78px; height: 22px; padding: 0px; margin: 0px;" /></a>
